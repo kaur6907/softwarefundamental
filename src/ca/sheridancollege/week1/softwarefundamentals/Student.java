@@ -21,26 +21,6 @@ public class Student {
     public String getName() {
         return name;
     }
-    private int SID;
-
-    /**
-     * Get the value of SID
-     *
-     * @return the value of SID
-     */
-    public int getSID() {
-        return SID;
-    }
-
-    /**
-     * Set the value of SID
-     *
-     * @param SID new value of SID
-     */
-    public void setSID(int SID) {
-        this.SID = SID;
-    }
-
 
     /**
      * Set the value of name
